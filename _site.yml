@@ -1,6 +1,6 @@
 name: "geotrans"
 navbar: 
-  title: "GeoTrans"
+  title: ""
   left:
     - text: "Home"
       href: index.html
