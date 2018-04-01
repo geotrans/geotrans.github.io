@@ -1,6 +1,7 @@
 ---
-title: "GeoTrans"
+title: "Home"
 
 ---
-
-Hello, website!
+<center>
+![](images/logo.png)
+</center>
