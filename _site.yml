@@ -8,6 +8,8 @@ navbar:
       href: people.html
     - text: "About"
       href: about.html
+    - text: "Software"
+      href: software.html
 output:
   html_document:
     theme: cosmo
